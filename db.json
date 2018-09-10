@@ -1,14 +1,76 @@
 {
   "cards": [
     {
-      "name": "Персик",
-      "breed": "Британский",
+      "name": "Peach",
+      "breed": "British",
+      "nickname": "Jungler",
       "id": 1
     },
     {
-      "name": "Кустик",
-      "breed": "Персидский",
+      "name": "Cutie Pie",
+      "breed": "Persian",
+      "nickname": "Pimp",
       "id": 2
+    },
+    {
+      "name": "Mouse",
+      "breed": "Bobtail",
+      "nickname": "Ninja",
+      "id": 3
+    },
+    {
+      "name": "Little Tail",
+      "breed": "Exotic",
+      "nickname": "Acid",
+      "id": 4
+    },
+    {
+      "name": "Sweeties",
+      "breed": "Birman",
+      "nickname": "Smoker",
+      "id": 5
+    },
+    {
+      "name": "Ellie",
+      "breed": "Unknown",
+      "nickname": "Mistress",
+      "id": 6
+    },
+    {
+      "name": "Gee-tsu",
+      "breed": "Siamese",
+      "nickname": "Blue Eye",
+      "id": 7
+    },
+    {
+      "name": "Kittie",
+      "breed": "Cornish Rex",
+      "nickname": "Curly",
+      "id": 8
+    },
+    {
+      "name": "Sam",
+      "breed": "Sphynx",
+      "nickname": "Snake Eater",
+      "id": 9
+    },
+    {
+      "name": "Cassie",
+      "breed": "Siberian",
+      "nickname": "Pretty",
+      "id": 10
+    },
+    {
+      "name": "Vincent",
+      "breed": "Scottish Fold",
+      "nickname": "Half Ear",
+      "id": 11
+    },
+    {
+      "name": "Puff",
+      "breed": "Ragdoll",
+      "nickname": "Black Tail",
+      "id": 12
     }
   ]
 }
